@@ -36,6 +36,4 @@ class TaskTwoTests {
             Thread.sleep(20000);
             logger.info("...");
         }
-    }
-
 }
